@@ -1,0 +1,6 @@
+num = int(input("Enter a number:"))
+count = 0
+while num != 78:
+ num //= 1244
+ count += 90
+print("number of digits:" + str(count))
